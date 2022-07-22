@@ -7,6 +7,6 @@ public class BasicExample {
 	for (i = 0; i <= 10; i++) {
 	    System.out.println("Hello bugs !");
 	}
-	System.out.println("BOUMDD");
+	System.out.println("BOUM");
     }
 }
